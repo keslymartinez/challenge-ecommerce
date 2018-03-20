@@ -1,1 +1,18 @@
 /* you can add any styles you think could improve user's experience */
+.container {
+	box-sizing: border-box;
+	margin-left: auto;
+}
+.lista {
+	display: flex;
+	margin: 12px;
+
+
+}
+.lista2 {
+	display: grid;
+	margin: 30px;
+}
+button {
+	background-color: green;
+}
